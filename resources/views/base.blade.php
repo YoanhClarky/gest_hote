@@ -36,8 +36,8 @@
                 </button>
                 <div class="collapse navbar-collapse" id="navbarCollapse">
                     <div class="navbar-nav ms-auto">
-                        <a href="index.html" class="nav-item nav-link active">accueil</a>
-                        <a href="about.html" class="nav-item nav-link">réseravtion</a>
+                        <a href="/accueil" class="nav-item nav-link active">accueil</a>
+                        <a href="/reservation" class="nav-item nav-link">réservation</a>
                         <div class="nav-item dropdown">
                             <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Property</a>
                             <div class="dropdown-menu rounded-0 m-0">
@@ -94,15 +94,7 @@
                             <div class="col-md-4">
                                 <input type="text" class="form-control border-0 py-3" placeholder="Search Keyword">
                             </div>
-                            <div class="col-md-4">
-                                <select class="form-select border-0 py-3">
-                                    
-									
-									<option selected>Property Type</option>
-                                    <option value="1">Property Type 1</option>
-                                    <option value="2">Property Type 2</option>
-                                    <option value="3">Property Type 3</option>
-                                </select>
+                        
                             </div>
                             <div class="col-md-4">
                                 <select class="form-select border-0 py-3">
@@ -801,7 +793,7 @@
                 <div class="row g-5">
                     <div class="col-lg-3 col-md-6">
                         <h5 class="text-white mb-4">Get In Touch</h5>
-                        <p class="mb-2"><i class="fa fa-map-marker-alt me-3"></i>123 Street, New York, USA</p>
+                        <p class="mb-2"><i class="fa fa-map-marker-alt me-3"></i>53 rue mabombo,pointe-noire, CONGO</p>
                         <p class="mb-2"><i class="fa fa-phone-alt me-3"></i>+012 345 67890</p>
                         <p class="mb-2"><i class="fa fa-envelope me-3"></i>info@example.com</p>
                         <div class="d-flex pt-2">
@@ -864,9 +856,8 @@
                         <div class="col-md-6 text-center text-md-end">
                             <div class="footer-menu">
                                 <a href="">Home</a>
-                                <a href="">Cookies</a>
                                 <a href="">Help</a>
-                                <a href="">FQAs</a>
+                                <a href="">mks</a>
                             </div>
                         </div>
                     </div>

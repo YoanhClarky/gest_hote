@@ -14,7 +14,7 @@ return new class extends Migration
         Schema::create('type_chambres', function (Blueprint $table) {
             $table->id();
             $table->string("désignation");
-            $table->décimal("prix_chambre");
+            $table->decimal("prix_chambre");
 
             $table->timestamps();
         });
